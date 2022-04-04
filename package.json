@@ -1,10 +1,10 @@
 {
-  "name": "qazando-cypress",
+  "name": "projeto-mec",
   "version": "1.0.0",
-  "description": "Aula de Cypress - QAzando",
+  "description": "Automação do projeto MEC - Grupo Tiradentes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress open"
   },
   "keywords": [],
   "author": "Jonathan Alves",
