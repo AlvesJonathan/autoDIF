@@ -1,4 +1,6 @@
 {
   "break": 2000,
-  "longbreak": 8000
+  "longbreak": 6000,
+  "loteInicio": "1990-10-10",
+  "loteFim": "1990-10-10"
 }
